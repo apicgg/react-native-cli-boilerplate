@@ -1,8 +1,39 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# react-native-cli-boilerplate
 
-# Getting Started
+> Simple opinionated boilerplate for React Native bare workflow with TypeScript.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+Feel free to add or tweak the setup as needed.
+
+This has been created with the official template (`npx @react-native-community/cli@latest init`) and some extended setup.
+
+Any package manager can be used with this project (e.g. npm or yarn).
+
+```
+If you love this boilerplate, give it a star, you will be a ray of sunshine in our lives :)
+```
+
+## Tools & Technology
+
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Prettier](https://prettier.io/)
+- [Eslint](https://eslint.org/)
+
+## Requirements
+
+- [Node.js](https://nodejs.org/en/) 18+
+
+## Installation
+
+```bash
+npx degit apicgg/react-native-cli-boilerplate
+```
+
+or
+
+```bash
+git clone https://github.com/apicgg/react-native-cli-boilerplate.git
+```
 
 ## Step 1: Start the Metro Server
 
@@ -55,25 +86,16 @@ Now that you have successfully run the app, let's modify it.
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
-## Congratulations! :tada:
+## Congratulations!
 
-You've successfully run and modified your React Native App. :partying_face:
+You've successfully run and modified your React Native App.
 
-### Now what?
+## License
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+MIT License.
 
-# Troubleshooting
+Please review the [License](https://github.com/apicgg/vite-mern-template/blob/main/LICENSE).
 
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+## Contributors ✨
 
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+Contributions of any kind welcome! Kindly have a look into [Contributing Guidelines](CONTRIBUTING.md)
