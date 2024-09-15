@@ -26,7 +26,7 @@ If you love this boilerplate, give it a star, you will be a ray of sunshine in o
 ## Installation
 
 ```bash
-npx degit apicgg/react-native-cli-boilerplate
+npx degit apicgg/react-native-cli-boilerplate my-app
 ```
 
 or
