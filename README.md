@@ -16,6 +16,7 @@ If you love this boilerplate, give it a star, you will be a ray of sunshine in o
 
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - [Prettier](https://prettier.io/)
 - [Eslint](https://eslint.org/)
 
