@@ -91,6 +91,11 @@ Now that you have successfully run the app, let's modify it.
 
 You've successfully run and modified your React Native App.
 
+## TODO
+
+- [x] Include eslint and prettier.
+- [ ] Add testing framework.
+
 ## License
 
 MIT License.
